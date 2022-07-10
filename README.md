@@ -1,7 +1,7 @@
 <param ve-config
   title="Winter"
   author="Border Crossings"
-  banner="https://proxy.europeana.eu/264/BRXBR0000005331833?view=http%3A%2F%2Foxalis.br.fgov.be%2Fimages%2FBR0%2F000%2F005%2F331%2F833%2FBR0000005331833.jpg&disposition=inline&api_url=https%3A%2F%2Fapi.europeana.eu%2Fapi"
+  banner=https://upload.wikimedia.org/wikipedia/commons/6/6d/Frosty_leaves_oct2008.jpg"
   layout="vertical">
   
 ### Summary
