@@ -1,7 +1,7 @@
 <param ve-config
   title="Winter"
   author="Border Crossings"
-  banner=https://upload.wikimedia.org/wikipedia/commons/6/6d/Frosty_leaves_oct2008.jpg"
+  banner="https://upload.wikimedia.org/wikipedia/commons/6/6d/Frosty_leaves_oct2008.jpg"
   layout="vertical">
   
 ### Summary
