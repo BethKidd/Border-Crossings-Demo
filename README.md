@@ -42,3 +42,13 @@ timenav-position="bottom"
 hash-bookmark="false"
 initial-zoom="1"
 height="750">
+            
+            <video
+     id=”my-player”
+     class=”video-js”
+     controls
+     preload=”auto”
+     poster=”//vjs.zencdn.net/v/oceans.png”
+     data-setup=’{}’>
+     <source src=”https://www.youtube.com/watch?v=_VwKvS6QpsI" type=”video/mp4"></source>
+   </video>
