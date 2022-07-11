@@ -38,6 +38,7 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
 Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 <param ve-image
 url="https://upload.wikimedia.org/wikipedia/commons/5/56/Carolus_Linnaeus_by_Hendrik_Hollander_1853.jpg"
+fit="contain"
 label="Sami Attire" 
 description="Linnaeus in Sami Clothing"
 license="Public Domain">
